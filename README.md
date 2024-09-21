@@ -2,6 +2,7 @@
 ## Uncovering Patterns in Vehicle Loan Data
 In this project, I delved into a detailed analysis of a vehicle loan dataset for an Asset Financing Company.
 
+
 ## Project Overview
 1. **Demographics Analysis**:
 In this section, I calculated the average age of loan applicants, analyzed gender distributions, and explored the geographic spread of applicants across states and cities. This analysis helps in understanding the demographics of the applicant pool, which is crucial for targeted marketing and risk assessment.
