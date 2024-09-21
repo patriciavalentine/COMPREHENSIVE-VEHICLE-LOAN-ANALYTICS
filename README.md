@@ -30,4 +30,4 @@ To accompany the insights derived from the analysis, I created visualizations in
 You can access it [here](https://storage.cloud.google.com/vehicle_loan_data/Vehicle%20Loan%20Dataset.csv)
 
 ### The Queries:
-
+https://github.com/patriciavalentine/LOAN-DATA-QUERIES-AND-VISUALS/blob/main/Loan%20Queries.sql
