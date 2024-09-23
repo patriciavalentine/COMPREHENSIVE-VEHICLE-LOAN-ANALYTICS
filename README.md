@@ -228,7 +228,6 @@ FROM `Vehicle_Loan_Data.Credit Data`
 WHERE `LTV Ratio` > 80 AND `Number of Existing Loans` > 3;
 ```
 
-
 ### Question 2:
 **Which applicants with a credit score below 600 have more than 2 existing loans?**
 ```sql
@@ -236,7 +235,6 @@ SELECT *
 FROM `Vehicle_Loan_Data.Credit Data`
 WHERE `Credit Score` < 600 AND `Number of Existing Loans` > 2;
 ```
-
 
 ### Question 3:
 **What is the total outstanding loan amount for applicants with more than 5 existing loans?**
@@ -281,6 +279,7 @@ SELECT `Existing Customer`, SUM(`Loan Amount`) AS Total_loan_amount
 FROM `Vehicle_Loan_Data.Credit Data`
 GROUP BY `Existing Customer`;
 ```
+![What is the total loan amount requested by existing customers vs  new customers](https://github.com/user-attachments/assets/97c19ae8-1b04-42ea-b08d-1727e98a47c0)
 
 
 ### Question 2:
@@ -293,6 +292,7 @@ SELECT ROUND(principal * monthly_rate * POWER(1 + monthly_rate, tenure_months) /
       AS monthly_emi
 FROM Loan_details;
 ```
+![If an applicant with an income of ₹50,000 requests a loan of ₹500,000, what should be their monthly EMI over a tenure of 60 months (assuming 15% interest)](https://github.com/user-attachments/assets/0be05016-b969-425f-8724-b29571f9dba9)
 
 
 ### Question 3:
@@ -304,6 +304,7 @@ SELECT (COUNT(*) * 100.0 /
 FROM `Vehicle_Loan_Data.Credit Data`
 WHERE `Loan Tenure` > 36 AND `LTV Ratio` > 85;
 ```
+![What percentage of applicants with a loan tenure above 36 months have an LTV ratio greater than 85%](https://github.com/user-attachments/assets/f541aad8-1843-44a2-a021-df59e393daa2)
 
 
 ### Question 4:
@@ -318,4 +319,6 @@ WHERE `Loan Amount` > 4 * `Income`;
 To accompany the insights derived from the analysis, I created visualizations in Looker Studio.
 
 These visual representations of complex data patterns illustrate customer behavior, risk profiles, and loan distributions, supporting strategic business decisions and enhancing the overall understanding of the data.
+
+...
 
