@@ -13,13 +13,19 @@ Employment trends were then explored to understand their impact on loan amounts.
 
 >This project ultimately helps the Asset Financing Company better understand their customer base and optimize loan offerings for profitability while minimizing risk.
 
-## 📁 The Files
-- [The BigQuery SQL Queries](https://github.com/patriciavalentine/LOAN-DATA-QUERIES-AND-VISUALS/blob/main/Loan%20Queries.sql).
-- [The Dataset](https://storage.cloud.google.com/vehicle_loan_data/Vehicle%20Loan%20Dataset.csv).
+### 📁 The Files
+1. [The BigQuery SQL Queries](https://github.com/patriciavalentine/LOAN-DATA-QUERIES-AND-VISUALS/blob/main/Loan%20Queries.sql).
+2. [The Dataset](https://storage.cloud.google.com/vehicle_loan_data/Vehicle%20Loan%20Dataset.csv).
+
+### 🛠️Tools Used
+- The Google Cloud Storage: Stored the vehicle loan dataset for secure, scalable, and efficient data handling.
+- BigQuery: Ran a series of SQL queries on the loan dataset to derive insights.
+- Looker Studio: Created dynamic, interactive visualizations of the analyzed data, enabling deeper insights.
 
 # THE SQL 📈 QUERIES
 ### Sample of the Dataset:
 ![Loan Data - Sample](https://github.com/user-attachments/assets/6b1f1212-aae8-4796-9398-97ae4987e6b9)
+*Source - [Kaggle](https://www.kaggle.com/datasets/yashkmd/credit-profile-two-wheeler-loan-dataset)!*
 
 ## 1. 👪 Demographics Analysis
 In this section, I analyzed gender distributions, calculated the average age of loan applicants,  and explored the geographic spread of applicants across states and cities. This analysis helped in understanding the demographics of the loan applicants, which is crucial for targeted marketing.
