@@ -24,6 +24,8 @@ Employment trends were then explored to understand their impact on loan amounts.
 - **Looker Studio**: Created dynamic, interactive visualizations of the analyzed data, enabling deeper insights.
 
 # THE SQL 📈 QUERIES
+![loan-approved-application-form-concept](https://github.com/user-attachments/assets/d38c9251-954a-4983-8be4-9ba40c4e40ac)
+
 ### Sample of the Dataset:
 ![Loan Data - Sample](https://github.com/user-attachments/assets/6b1f1212-aae8-4796-9398-97ae4987e6b9)
 *Source - [Kaggle](https://www.kaggle.com/datasets/yashkmd/credit-profile-two-wheeler-loan-dataset)!*
