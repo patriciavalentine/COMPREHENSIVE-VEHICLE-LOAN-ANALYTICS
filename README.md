@@ -2,13 +2,14 @@
 In this project, I delved into a detailed analysis of a vehicle loan dataset for an Asset Financing Company.
 
 I performed an extensive analysis of the dataset using `BigQuery` to run a significant number of SQL queries.
-In the analysis, I explored key areas such as demographics, financial health, employment trends, risk assessment, and profitability.
+In the analysis, I explored key areas such as demographics, financial stability, employment trends, risk assessment, and profitability.
 Then finally, I visualized the findings in `Looker Studio`, enabling data-driven strategic decisions for optimizing loan offerings and managing risks effectively.
 
 # Uncovering Patterns in Vehicle Loan Data
 ## 🧑‍💻 Project Overview
 I analyzed the demographics of loan applicants, including age, gender, and geographic spread, to gain insights for targeted marketing.
-Then I assessed financial health by examining credit scores, income disparities, and correlations between income and credit scores to identify high-risk profiles.
+Then I assessed the financial well-being of the applicants by examining their credit scores, income disparities, and correlations between income and credit scores to identify high-risk profiles.
+
 Employment trends were then explored to understand their impact on loan amounts. Then finally, I conducted a profitability analysis by comparing loan requests from existing and new customers and evaluating interest rate scenarios for potential returns.
 
 >This project ultimately helps the Asset Financing Company better understand their customer base and optimize loan offerings for profitability while minimizing risk.
@@ -72,8 +73,8 @@ LIMIT 3;
 ![Top 3 Cities](https://github.com/user-attachments/assets/96dd1df7-260c-44f9-a719-83f1f80bbac0)
 
 
-## 2. Financial Health
-I conducted a thorough examination of the financial health of applicants by calculating average credit scores and identifying those with low credit scores.
+## 2. 💸 Financial Stability
+I conducted a thorough examination of the financial stability of applicants by calculating average credit scores and identifying those with low credit scores.
 Additionally, I analyzed income disparities among applicants to understand their financial backgrounds better.
 
 Furthermore, I investigated correlations between income and credit scores to identify high-risk profiles, such as applicants with low income and poor credit histories.
