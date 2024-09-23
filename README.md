@@ -18,9 +18,9 @@ Employment trends were then explored to understand their impact on loan amounts.
 2. [The Dataset](https://storage.cloud.google.com/vehicle_loan_data/Vehicle%20Loan%20Dataset.csv).
 
 ### 🛠️Tools Used
-- The Google Cloud Storage: Stored the vehicle loan dataset for secure, scalable, and efficient data handling.
-- BigQuery: Ran a series of SQL queries on the loan dataset to derive insights.
-- Looker Studio: Created dynamic, interactive visualizations of the analyzed data, enabling deeper insights.
+- **The Google Cloud Storage**: Stored the vehicle loan dataset for secure, scalable, and efficient data handling.
+- **BigQuery**: Ran a series of SQL queries on the loan dataset to derive insights.
+- **Looker Studio**: Created dynamic, interactive visualizations of the analyzed data, enabling deeper insights.
 
 # THE SQL 📈 QUERIES
 ### Sample of the Dataset:
