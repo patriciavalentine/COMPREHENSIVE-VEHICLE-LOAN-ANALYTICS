@@ -2,7 +2,6 @@
 ## Uncovering Patterns in Vehicle Loan Data
 In this project, I delved into a detailed analysis of a vehicle loan dataset for an Asset Financing Company.
 
-
 ## Project Overview
 1. **Demographics Analysis**:
 In this section, I calculated the average age of loan applicants, analyzed gender distributions, and explored the geographic spread of applicants across states and cities. This analysis helps in understanding the demographics of the applicant pool, which is crucial for targeted marketing and risk assessment.
@@ -17,7 +16,7 @@ Using SQL queries, I explored employment and occupation-related trends to determ
 Risk assessment is another critical focus of this project. I identified applicants with multiple existing loans and high LTV ratios that may pose significant risks. By analyzing these factors, I aimed to provide insights into which applicants may be more likely to default on their loans.
 
 5. **Profitability Analysis**:
-In this section, I examined the loan requests of existing customers versus new customers and calculated profitability scenarios based on loan amounts and interest rates. This analysis helps in understanding the potential returns from different customer segments.
+I examined the loan requests of existing customers versus new customers and calculated profitability scenarios based on loan amounts and interest rates. This analysis helps understand the potential returns from different customer segments.
 
 6. **Visualizations in Looker Studio**:
 To accompany the insights derived from the analysis, I created visualizations in Looker Studio. These visual representations of complex data patterns illustrate customer behavior, risk profiles, and loan distributions, supporting strategic business decisions and enhancing the overall understanding of the data.
@@ -31,4 +30,5 @@ To accompany the insights derived from the analysis, I created visualizations in
 You can access it [here](https://storage.cloud.google.com/vehicle_loan_data/Vehicle%20Loan%20Dataset.csv)
 
 ### The Queries:
+
 https://github.com/patriciavalentine/LOAN-DATA-QUERIES-AND-VISUALS/blob/main/Loan%20Queries.sql
