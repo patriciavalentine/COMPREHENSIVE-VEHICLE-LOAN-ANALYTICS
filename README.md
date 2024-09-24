@@ -332,6 +332,5 @@ To view the visualizations, click [here](https://lookerstudio.google.com/reporti
 
 These visual representations of complex data patterns illustrate customer behavior, risk profiles, and loan distributions, supporting strategic business decisions and enhancing the overall understanding of the data.
 
-# THE END!
-## Thank you.
-### 💌
+## THE END!
+### Thank you.
