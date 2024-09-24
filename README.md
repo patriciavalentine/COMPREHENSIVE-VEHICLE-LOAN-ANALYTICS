@@ -15,8 +15,8 @@ Employment trends were then explored to understand their impact on loan amounts.
 >This project ultimately helps the Asset Financing Company better understand their customer base and optimize loan offerings for profitability while minimizing risk.
 
 ### 📁 The Files
-1. [The BigQuery SQL Queries](https://github.com/patriciavalentine/LOAN-DATA-QUERIES-AND-VISUALS/blob/main/Loan%20Queries.sql).
-2. [The Dataset](https://storage.cloud.google.com/vehicle_loan_data/Vehicle%20Loan%20Dataset.csv).
+1. [The Dataset](https://storage.cloud.google.com/vehicle_loan_data/Vehicle%20Loan%20Dataset.csv).
+2. [The BigQuery SQL Queries](https://github.com/patriciavalentine/LOAN-DATA-QUERIES-AND-VISUALS/blob/main/Loan%20Queries.sql).
 
 ### 🛠️Tools Used
 - **The Google Cloud Storage**: Stored the vehicle loan dataset for secure, scalable, and efficient data handling.
