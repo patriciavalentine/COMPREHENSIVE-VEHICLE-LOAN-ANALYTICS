@@ -328,9 +328,10 @@ WHERE `Loan Amount` > 4 * `Income`;
 # 📊 Visualizations in Looker Studio
 To accompany the insights derived from the analysis, I created visualizations in Looker Studio.
 
-[VEHICLE_LOANS_VISUALIZATIONS.pdf](https://github.com/user-attachments/files/17112154/VEHICLE_LOANS_VISUALIZATIONS.pdf)
-
+To view the visualizations, click [here](https://lookerstudio.google.com/reporting/d8eccb89-1dc5-4f6c-a001-34c2611801ac).
 
 These visual representations of complex data patterns illustrate customer behavior, risk profiles, and loan distributions, supporting strategic business decisions and enhancing the overall understanding of the data.
 
-...⏳!
+# THE END!
+## Thank you.
+### 💌
