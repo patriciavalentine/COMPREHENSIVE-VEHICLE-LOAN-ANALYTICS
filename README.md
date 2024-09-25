@@ -326,7 +326,7 @@ WHERE `Loan Amount` > 4 * `Income`;
 ```
 
 
-# 📊 Visualizations in Looker Studio
+# 📊 THE VISUALIZATIONS
 To accompany the insights derived from the analysis, I created visualizations in Looker Studio.
 
 ![Vehicle Loan Dashboard](https://github.com/user-attachments/assets/1108abe8-9ee2-46b2-8c34-b33790538bb0)
@@ -341,7 +341,7 @@ This comprehensive analysis of the vehicle loan dataset has provided invaluable 
 By leveraging key inquiry questions, I was able to explore various dimensions of the data, including demographic trends, creditworthiness, and the distribution of loan amounts.
 Thus, the insights derived from this project would offer a strategic foundation for the company to refine its lending practices and risk assessment procedures, which would then empower the company to navigate the complexities of the vehicle loan market, enhance competitiveness, and foster its long-term growth.
 
-> `KINDLY NOTE`: For a detailed explanation of these query results, check [here](https://valepatricia16.wixsite.com/patricia-valentine/about-3-2).
+> `KINDLY NOTE`: For a detailed explanation of the query results, check [here](https://valepatricia16.wixsite.com/patricia-valentine/about-3-2).
 
 ## THE END!
 ### Thank you.
