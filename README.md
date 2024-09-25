@@ -167,8 +167,6 @@ SELECT *
 FROM `Vehicle_Loan_Data.Credit Data`
 WHERE `Loan Tenure` > 60 AND `LTV Ratio` > 80;
 ```
-![Loan range   count](https://github.com/user-attachments/assets/82ff5762-430f-491a-8adf-aae26ec3bddf)
-
 
 ### Question 10:
 **What is the distribution of loan amounts requested?**
@@ -324,6 +322,9 @@ SELECT *
 FROM `Vehicle_Loan_Data.Credit Data`
 WHERE `Loan Amount` > 4 * `Income`;
 ```
+
+> For a detailed explanation of these query results, check [here](https://valepatricia16.wixsite.com/patricia-valentine/about-3-2).
+
 
 # 📊 Visualizations in Looker Studio
 To accompany the insights derived from the analysis, I created visualizations in Looker Studio.
