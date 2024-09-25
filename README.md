@@ -24,12 +24,14 @@ Employment trends were then explored to understand their impact on loan amounts.
 - **BigQuery**: Ran a series of SQL queries on the loan dataset to derive insights.
 - **Looker Studio**: Created dynamic, interactive visualizations of the analyzed data, enabling deeper insights.
 
-# THE SQL 📈 QUERIES
-![loan-approved-application-form-concept](https://github.com/user-attachments/assets/d38c9251-954a-4983-8be4-9ba40c4e40ac)
 
 ### Sample of the Dataset:
 ![Loan Data - Sample](https://github.com/user-attachments/assets/6b1f1212-aae8-4796-9398-97ae4987e6b9)
 *Source - [Kaggle](https://www.kaggle.com/datasets/yashkmd/credit-profile-two-wheeler-loan-dataset)!*
+
+
+# THE SQL 📈 QUERIES & RESULTS
+![loan-approved-application-form-concept](https://github.com/user-attachments/assets/d38c9251-954a-4983-8be4-9ba40c4e40ac)
 
 ## 1. 👪 Demographics Analysis
 In this section, I analyzed gender distributions, calculated the average age of loan applicants,  and explored the geographic spread of applicants across states and cities. This analysis helped in understanding the demographics of the loan applicants, which is crucial for targeted marketing.
@@ -323,15 +325,23 @@ FROM `Vehicle_Loan_Data.Credit Data`
 WHERE `Loan Amount` > 4 * `Income`;
 ```
 
-> For a detailed explanation of these query results, check [here](https://valepatricia16.wixsite.com/patricia-valentine/about-3-2).
-
 
 # 📊 Visualizations in Looker Studio
 To accompany the insights derived from the analysis, I created visualizations in Looker Studio.
 
-To view the visualizations, click [here](https://lookerstudio.google.com/reporting/d8eccb89-1dc5-4f6c-a001-34c2611801ac).
+![Vehicle Loan Dashboard](https://github.com/user-attachments/assets/1108abe8-9ee2-46b2-8c34-b33790538bb0)
+
+To view the Dashboard in Looker Studio, click [here](https://lookerstudio.google.com/reporting/d8eccb89-1dc5-4f6c-a001-34c2611801ac).
 
 These visual representations of complex data patterns illustrate customer behavior, risk profiles, and loan distributions, supporting strategic business decisions and enhancing the overall understanding of the data.
+
+## Conclusion
+This comprehensive analysis of the vehicle loan dataset has provided invaluable insights into applicants' profiles, their financial health, and the dynamics of loan performance within the Asset Financing sector.
+
+By leveraging key inquiry questions, I was able to explore various dimensions of the data, including demographic trends, creditworthiness, and the distribution of loan amounts.
+Thus, the insights derived from this project would offer a strategic foundation for the company to refine its lending practices and risk assessment procedures, which would then empower the company to navigate the complexities of the vehicle loan market, enhance competitiveness, and foster its long-term growth.
+
+> `KINDLY NOTE`: For a detailed explanation of these query results, check [here](https://valepatricia16.wixsite.com/patricia-valentine/about-3-2).
 
 ## THE END!
 ### Thank you.
