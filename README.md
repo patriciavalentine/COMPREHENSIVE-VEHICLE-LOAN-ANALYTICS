@@ -10,7 +10,7 @@ Then finally, I visualized the findings in `Looker Studio`, enabling data-driven
 I analyzed the demographics of loan applicants, including age, gender, and geographic spread, to gain insights for targeted marketing.
 Then I assessed the financial well-being of the applicants by examining their credit scores, income disparities, and correlations between income and credit scores to identify high-risk profiles.
 
-Employment trends were then explored to understand their impact on loan amounts. Then finally, I conducted a profitability analysis by comparing loan requests from existing and new customers and evaluating interest rate scenarios for potential returns.
+I then explored employment trends to understand their impact on loan amounts. Finally, I conducted a profitability analysis by comparing loan requests from existing and new customers and evaluating interest rate scenarios for potential returns.
 
 >This project ultimately helps the Asset Financing Company better understand their customer base and optimize loan offerings for profitability while minimizing risk.
 
