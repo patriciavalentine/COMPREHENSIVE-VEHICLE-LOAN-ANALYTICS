@@ -8,7 +8,7 @@ Then finally, I visualized the findings in `Looker Studio`, enabling data-driven
 # Uncovering Patterns in Vehicle Loan Data
 ## 🧑‍💻 Project Overview
 I analyzed the demographics of loan applicants, including age, gender, and geographic spread, to gain insights for targeted marketing.
-Then I assessed the financial well-being of the applicants by examining their credit scores, income disparities, and correlations between income and credit scores to identify high-risk profiles.
+Then, I assessed the applicants' financial well-being by examining their credit scores, income disparities, and correlations between income and credit scores to identify high-risk profiles.
 
 I then explored employment trends to understand their impact on loan amounts. Finally, I conducted a profitability analysis by comparing loan requests from existing and new customers and evaluating interest rate scenarios for potential returns.
 
