@@ -12,7 +12,7 @@ Then, I assessed the applicants' financial well-being by examining their credit 
 
 I then explored employment trends to understand their impact on loan amounts. Finally, I conducted a profitability analysis by comparing loan requests from existing and new customers and evaluating interest rate scenarios for potential returns.
 
->This project ultimately helps the Asset Financing Company better understand their customer base and optimize loan offerings for profitability while minimizing risk.
+>This project ultimately helps the Asset Financing Company better understand its customer base and optimize loan offerings for profitability while minimizing risk.
 
 ### 📁 The Files
 1. [The Dataset](https://storage.cloud.google.com/vehicle_loan_data/Vehicle%20Loan%20Dataset.csv).
