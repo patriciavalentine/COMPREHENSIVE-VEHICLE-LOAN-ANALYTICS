@@ -5,6 +5,12 @@ I performed an extensive analysis of the dataset using `BigQuery` to run a signi
 In the analysis, I explored key areas such as demographics, financial stability, employment trends, risk assessment, and profitability.
 Then finally, I visualized the findings in `Looker Studio`, enabling data-driven strategic decisions for optimizing loan offerings and managing risks effectively.
 
+
+
+
+
+
+
 # Uncovering Patterns in Vehicle Loan Data
 ## 🧑‍💻 Project Overview
 I analyzed the demographics of loan applicants, including age, gender, and geographic spread, to gain insights for targeted marketing.
