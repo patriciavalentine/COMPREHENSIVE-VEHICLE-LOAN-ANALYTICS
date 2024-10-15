@@ -5,11 +5,14 @@ This is a project entailing a detailed analysis of a vehicle loan dataset for an
 Then, I visualized the findings in `Looker Studio`, enabling data-driven strategic decisions for optimizing loan offerings and managing risks effectively.*
 
 # Uncovering Patterns in Vehicle Loan Data
-## 🧑‍💻 Project Overview
-I analyzed the demographics of loan applicants, including age, gender, and geographic spread, to gain insights for targeted marketing.
+## 🧑‍💻 The Project Overview
+Using BigQuery, I executed SQL queries to analyze the demographics of loan applicants — such as age, gender, and geographic distribution — to uncover insights for more effective targeted marketing strategies.
+
 Then, I assessed the applicants' financial well-being by examining their credit scores, income disparities, and correlations between income and credit scores to identify high-risk profiles.
 
-I then explored employment trends to understand their impact on loan amounts. Finally, I conducted a profitability analysis by comparing loan requests from existing and new customers and evaluating interest rate scenarios for potential returns.
+I then explored employment trends to understand their impact on loan amounts.
+
+Finally, I conducted a profitability analysis by comparing loan requests from existing and new customers and evaluating interest rate scenarios for potential returns.
 
 >This project ultimately helps the Asset Financing Company better understand its customer base and optimize loan offerings for profitability while minimizing risk.
 
