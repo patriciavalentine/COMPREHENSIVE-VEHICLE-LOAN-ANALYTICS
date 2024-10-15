@@ -1,6 +1,5 @@
 # 📊 VEHICLE LOAN ANALYTICS
-This is a project entailing a detailed analysis of a vehicle loan dataset for an Asset Financing Company.
-In the analysis, I explored key areas such as demographics, financial stability, employment trends, risk assessment, and profitability.
+This is a project entailing a detailed analysis of a vehicle loan dataset for an Asset Financing Company. The Exploratory Data Analysis (EDA) involved exploring key areas such as demographics, financial stability, employment trends, risk assessment, and profitability.
 
 *I first performed an extensive dataset analysis using `BigQuery` to run a significant number of SQL queries.
 Then, I visualized the findings in `Looker Studio`, enabling data-driven strategic decisions for optimizing loan offerings and managing risks effectively.*
