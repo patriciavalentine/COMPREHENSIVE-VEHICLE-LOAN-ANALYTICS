@@ -1,9 +1,9 @@
 # 📊 VEHICLE LOAN ANALYTICS
 This is a project entailing a detailed analysis of a vehicle loan dataset for an Asset Financing Company.
 
-- I performed an extensive analysis of the dataset using `BigQuery` to run a significant number of SQL queries.
+*I performed an extensive analysis of the dataset using `BigQuery` to run a significant number of SQL queries.
 In the analysis, I explored key areas such as demographics, financial stability, employment trends, risk assessment, and profitability.
-Then finally, I visualized the findings in `Looker Studio`, enabling data-driven strategic decisions for optimizing loan offerings and managing risks effectively.
+Then finally, I visualized the findings in `Looker Studio`, enabling data-driven strategic decisions for optimizing loan offerings and managing risks effectively.*
 
 # Uncovering Patterns in Vehicle Loan Data
 ## 🧑‍💻 Project Overview
