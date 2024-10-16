@@ -222,8 +222,7 @@ ORDER BY Avg_loan_amount DESC;
 ![Occupation Vs Loan amount](https://github.com/user-attachments/assets/8232e1d4-c9d0-4ef2-b85c-d58667b1067a)
 
 
-
-## 4. ⚠️ Risk Assessment
+## 4. ⚠️ RISK ASSESSMENT
 Risk assessment is another critical focus of this project.
 
 This is where I identified applicants with multiple existing loans and high LTV ratios that may pose significant risks.
