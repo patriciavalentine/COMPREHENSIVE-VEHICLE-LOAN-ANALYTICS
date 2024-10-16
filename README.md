@@ -77,7 +77,7 @@ LIMIT 3;
 ![Top 3 Cities](https://github.com/user-attachments/assets/96dd1df7-260c-44f9-a719-83f1f80bbac0)
 
 
-## 2. 💸 Financial Stability
+## 2. 💸 FINANCIAL STABILITY
 I conducted a thorough examination of the financial stability of applicants by calculating average credit scores and identifying those with low credit scores.
 Additionally, I analyzed income disparities among applicants to understand their financial backgrounds better.
 
