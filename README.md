@@ -32,7 +32,7 @@ Finally, I conducted a profitability analysis by comparing loan requests from ex
 # THE SQL 📈 QUERIES & RESULTS
 ![loan-approved-application-form-concept](https://github.com/user-attachments/assets/d38c9251-954a-4983-8be4-9ba40c4e40ac)
 
-## 1. 👪 Demographics Analysis
+## 1. 👪 DEMOGRAPHICS ANALYSIS
 In this section, I analyzed gender distributions, calculated the average age of loan applicants,  and explored the geographic spread of applicants across states and cities. This analysis helped in understanding the demographics of the loan applicants, which is crucial for targeted marketing.
 
 ### Question 1:
