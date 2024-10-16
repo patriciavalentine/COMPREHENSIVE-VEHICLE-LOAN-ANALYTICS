@@ -195,7 +195,7 @@ FROM `Vehicle_Loan_Data.Credit Data`;
 
 
 
-## 3. 👩‍💼 Employment and Occupation Trends
+## 3. 👩‍💼 EMPLOYMENT AND OCCUPATION TRENDS
 Using SQL queries, I explored employment and occupation-related trends to determine which employment categories and occupations request higher loan amounts.
 This analysis is essential for understanding how employment types influence loan requests and associated risks.
 
