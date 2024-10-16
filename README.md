@@ -6,7 +6,7 @@ Then, I visualized the findings in `Looker Studio`, enabling data-driven strateg
 
 # Uncovering Patterns in Vehicle Loan Data
 ## 🧑‍💻 The Project Overview
-Using BigQuery, I executed SQL queries to analyze the demographics of loan applicants — such as age, gender, and geographic distribution — to uncover insights for more effective targeted marketing strategies.
+Using `BigQuery`, I executed SQL queries to analyze the demographics of loan applicants — such as age, gender, and geographic distribution — to uncover insights for more effective targeted marketing strategies.
 Then, I assessed the applicants' financial well-being by examining their credit scores, income disparities, and correlations between income and credit scores to identify high-risk profiles.
 I then explored employment trends to understand their impact on loan amounts.
 Finally, I conducted a profitability analysis by comparing loan requests from existing and new customers and evaluating interest rate scenarios for potential returns.
