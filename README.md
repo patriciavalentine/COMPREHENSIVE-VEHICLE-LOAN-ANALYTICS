@@ -276,7 +276,7 @@ WHERE `Profile Score` > 80 AND `Credit Score` > 700;
 
 
 
-## 5. 📈 Profitability Analysis
+## 5. 📈 PROFITABILITY ANALYSIS
 I examined the loan requests of existing customers versus new customers and calculated profitability scenarios based on loan amounts and interest rates.
 This analysis helps understand the potential returns from different customer segments.
 
